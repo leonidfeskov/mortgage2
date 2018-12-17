@@ -1,0 +1,1 @@
+{"version":3,"sources":["containers/Panel/panel.css"],"names":[],"mappings":"AAAA,OACI,wBACA,gBACA,KAAO","file":"static/css/main.958526bb.css","sourcesContent":[".panel {\n    position: -webkit-sticky;\n    position: sticky;\n    top: 0;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/containers/Panel/panel.css"],"sourceRoot":""}

@@ -1,9 +1,9 @@
 const SET_FIELD_VALUE = 'SET_FIELD_VALUE';
 
 const initialStateFields = {
-    sumPerMonth: 80000,
+    sumPerMonth: 50000,
     creditPercent: 9.5,
-    creditSum: 4100000,
+    creditSum: 4000000,
 };
 
 export function fields(state = initialStateFields, action) {
